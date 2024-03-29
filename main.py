@@ -1,7 +1,6 @@
 import requests
 import discord
-from tFile import token
+from hiddenFiles.tFile import token
 
 print(token())
-
 print('test')
