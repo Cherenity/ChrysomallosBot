@@ -3,3 +3,5 @@ import discord
 from tFile import token
 
 print(token())
+
+print('test')
