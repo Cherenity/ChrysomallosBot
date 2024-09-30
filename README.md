@@ -1,4 +1,4 @@
 # chrysomallosBot
-a new discord bot for FFXIV static server
+I am creating a new discord bot for private FFXIV discord server.
 
 - In development (gonna make better version of Karakul at somepoint)
