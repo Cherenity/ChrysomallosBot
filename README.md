@@ -15,3 +15,5 @@ I will add new features to this project later when I have time.
 - token
 
 I will later add a function that will install all the dependencies.
+
+- In development (old bot: Karakul)
